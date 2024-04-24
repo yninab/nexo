@@ -1,2 +1,2 @@
-# nexo
+# nexos
 primer-repo
