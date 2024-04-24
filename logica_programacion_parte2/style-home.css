@@ -1,0 +1,79 @@
+.header{
+    -webkit-tap-highlight-color: rgb(244, 245, 247);
+    padding: 20px 0;
+}
+.caja{
+    width: 95%;
+    position: relative;
+    margin: 0 0 40px 15px;
+}
+
+nav{
+    position: absolute;
+    top: 10px;
+    right: 0;
+}
+nav li{
+    display: inline-flex;
+    margin: 0 0 10px 15px;
+}
+nav a{
+    text-transform: capitalize;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 13px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #c78c19;
+    text-decoration: underline;
+}
+
+body{
+    background: linear-gradient(#0084ff, #1b6679);
+    padding: 20px 0;
+  
+}
+.principal{
+    background: linear-gradient(#0084ff, #1b6679);
+    padding: 200px 0;
+}
+.titulo-centralizado{
+    text-align: center;
+}
+#banner{
+    width:100%;
+}
+
+.titulo-principal{
+    padding-left: 30px;
+}
+
+p{
+    text-align: center;
+}
+
+em strong{
+    color:#FFFFFF;
+}
+
+#mision{
+    font-size: 20px;
+}
+.diferenciales{
+    padding: 30px;
+    background: #FFFFFF;
+}
+.items{
+    font-style: italic;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagenDiferenciales{
+    width: 50%;
+}
